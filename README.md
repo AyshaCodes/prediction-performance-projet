@@ -1,4 +1,7 @@
 # Application de Prédiction de Performance de Projet
+🚀 Démonstration en ligne
+Retrouvez l'application interactive ici :
+https://prediction-performance-projet-kmzwt5qwkbyqvr2zsdm8ec.streamlit.app/
 
 ## Description
 Application intelligente qui prédit la performance d'un projet (Réussi / En retard / Échoué)
