@@ -28,7 +28,7 @@ Dataset simulé de 300 projets avec les variables suivantes :
 
 ## Résultats du modèle
 - Algorithme : Random Forest Classifier
-- Accuracy : ~70%
+- Accuracy : ~100%
 
 ## Comment exécuter
 1. Ouvrir le notebook dans Google Colab
