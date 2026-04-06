@@ -114,7 +114,7 @@ if st.button("🔍 Prédire la performance du projet", use_container_width=True)
         [prob_col1, prob_col2, prob_col3][i].metric(f"{emoji} {cls}", f"{prob*100:.1f}%")
 
 st.markdown("---")
-st.markdown("*Application développée par SOUMARE AICHA — Mini-Projet IA & ML 2024-2025*")
+st.markdown("*Application développée par SOUMARE AICHA — Mini-Projet IA & ML 2025-2026*")
 '''
 
 with open("app.py", "w", encoding="utf-8") as f:
