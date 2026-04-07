@@ -12,8 +12,7 @@ en utilisant un modèle de Machine Learning (Random Forest).
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
-- ipywidgets (interface interactive)
-
+-Streamlit (application web)
 ## Dataset
 Dataset simulé de 300 projets avec les variables suivantes :
 - Budget prévu
